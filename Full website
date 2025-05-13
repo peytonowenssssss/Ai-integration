@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Artificial Intelligence in Everyday Life</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f8f8;
+      color: #333;
+    }
+    .slide {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="slide">
+    <h1>Artificial Intelligence & Its Integration in Everyday Life</h1>
+    <p><strong>By: Peyton Owens</strong></p>
+  </div>
+
+  <div class="slide">
+    <h2>Artificial Intelligence Use in 2024</h2>
+    <p>Modern workspaces are changing fast due to AI automating repetitive tasks and boosting productivity. AI affects everything from data analysis to customer support bots. While it increases efficiency, it also raises concerns about job displacement and the need for new skills.</p>
+    <p><strong>Use Cases:</strong> 27% workspace, 43% schooling, 18.4% hospitals, 47% government</p>
+  </div>
+
+  <div class="slide">
+    <h2>What Makes AI Unique</h2>
+    <p>AI blends into routine tasks and enhances personalization and efficiency. It learns from behavior and makes real-time decisions. AI enables natural human-machine interaction through language and emotion recognition.</p>
+  </div>
+
+  <div class="slide">
+    <h2>Artificial Intelligence Timeline</h2>
+    <ul>
+      <li><strong>1950s-1970s:</strong> Early research, programs could solve puzzles, play chess.</li>
+      <li><strong>1970s-1990s:</strong> AI winters – funding declined due to overpromises.</li>
+      <li><strong>1990s-now:</strong> AI boom – breakthroughs in deep learning and tools like ChatGPT.</li>
+      <li><strong>Now:</strong> Mainstream phenomenon, widely used technology.</li>
+    </ul>
+  </div>
+
+  <div class="slide">
+    <h2>AI in Work Environments</h2>
+    <p>AI automates repetitive work, boosts decision-making, and enhances efficiency. Tools include chatbots, predictive analytics, and document analysis. It supports intelligent scheduling, training, and rapid response to market needs.</p>
+  </div>
+
+  <div class="slide">
+    <h2>AI in School Environments</h2>
+    <p>AI personalizes education and supports teachers by automating grading. It provides tutoring, helps with homework, and supports administrative tasks like scheduling and communication.</p>
+  </div>
+
+  <div class="slide">
+    <h2>AI in Hospitals</h2>
+    <p>AI improves diagnostics, identifies risks, and supports clinical decisions. It handles tasks like billing and intake, and helps in surgery and personalized medicine by analyzing genetic data.</p>
+  </div>
+
+  <div class="slide">
+    <h2>AI in Government</h2>
+    <p>Governments use AI for data analysis, service improvement, and automation. It helps with public health, law enforcement, and citizen engagement. Ethical concerns include privacy and accountability.</p>
+  </div>
+
+  <div class="footer">
+    &copy; Confidential – Peyton Owens
+  </div>
+
+</body>
+</html>
