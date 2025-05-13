@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Artificial Intelligence</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0033cc;
+      color: white;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 40px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .left {
+      flex: 1;
+      padding-right: 40px;
+    }
+
+    .right {
+      flex: 1;
+      text-align: center;
+    }
+
+    .author {
+      background-color: black;
+      color: white;
+      padding: 10px 20px;
+      display: inline-block;
+      font-weight: bold;
+      border-radius: 25px;
+      font-size: 1rem;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin: 0;
+      line-height: 1.2;
+    }
+
+    .subtitle {
+      font-size: 1.5rem;
+      color: #b3c6ff;
+      margin-top: 10px;
+    }
+
+    .footer {
+      display: flex;
+      justify-content: flex-start;
+      gap: 20px;
+      padding: 20px 40px;
+      font-size: 0.9rem;
+      color: #b3c6ff;
+    }
+
+    .footer span {
+      border: 1px solid #b3c6ff;
+      border-radius: 20px;
+      padding: 5px 15px;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        padding: 20px;
+      }
+
+      .left, .right {
+        flex: unset;
+        padding: 0;
+      }
+
+      h1 {
+        font-size: 2.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left">
+      <div class="author">BY: PEYTON OWENS</div>
+      <h1>Artificial Intelligence</h1>
+      <div class="subtitle">& its integration/uses in everyday life</div>
+    </div>
+    <div class="right">
+      <img src="IMG_0563.jpeg" alt="AI illustration" />
+    </div>
+  </div>
+  <div class="footer">
+    <span>Confidential</span>
+    <span>Copyright ©</span>
+  </div>
+</body>
+</html>
